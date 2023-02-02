@@ -1,0 +1,5 @@
+python-dotenv~=0.21.1
+requests~=2.28.2
+asyncio~=3.4.3
+PyP100~=0.1.2
+bluetti_mqtt~=0.11.1
